@@ -36,3 +36,7 @@ Follow the prompts to select your agent. `-g` installs globally for use across p
 Environments that support automatic skill selection can match it to relevant tasks. You can also invoke it explicitly with `/clear-for-agents` or `$clear-for-agents`, depending on your environment's syntax.
 
 See [SKILL.md](SKILL.md) for the full instructions.
+
+## License
+
+[MIT](LICENSE)

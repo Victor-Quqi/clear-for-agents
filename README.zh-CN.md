@@ -34,3 +34,7 @@ npx skills add Victor-Quqi/clear-for-agents -g
 安装后，支持自动选择 skill 的环境会根据任务匹配。也可以按所用环境的语法，通过 `/clear-for-agents` 或 `$clear-for-agents` 显式调用。
 
 具体规则见 [SKILL.md](SKILL.md)。
+
+## 许可证
+
+[MIT](LICENSE)
