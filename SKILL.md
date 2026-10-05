@@ -1,10 +1,9 @@
 ---
 name: clear-for-agents
 description: >-
-  Use when writing or revising content for agents, including prompts, subagent
-  assignments, session resumes and handoffs, skills, tool descriptions, and
-  reference documents. Applies to temporary messages, persistent files, and
-  content shared by humans and agents.
+  MUST read before drafting or revising any text an agent will later read:
+  subagent and delegation prompts, resume and handoff messages,
+  CLAUDE.md/AGENTS.md, skills, tool descriptions, and reference docs.
 ---
 
 # Clear for agents
